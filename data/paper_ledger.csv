@@ -1,0 +1,1 @@
+prediction_timestamp,event_start,sport,competition,fixture,market,selection,model_id,model_version,model_probability,odds_decimal,implied_probability_raw,implied_probability_no_vig,expected_value_per_unit,source_url,source_timestamp,outcome,settled_at,pnl_units
